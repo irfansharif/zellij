@@ -1,0 +1,11 @@
+# Binaries
+zellij
+
+# Profiling and trace outputs
+*.prof
+trace.out
+
+# OS/Editor noise
+.DS_Store
+*.swp
+*.swo
